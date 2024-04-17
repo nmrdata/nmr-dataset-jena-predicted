@@ -1,0 +1,83 @@
+[
+  {
+    "id": "j4sKYhZ6rDkeZOK0A8FDYuGAcac=",
+    "mf": "C8H12O4",
+    "idCodeHash": "f8da502f5f1a5dd37dbefb443f0acf7b",
+    "idCode": "dctB@@PYRYU{ViijBB`",
+    "file": "./10-19/Bsp10/index.json",
+    "title": "Bsp10",
+    "selected": true
+  },
+  {
+    "id": "/FGpr2XwkMtD0eqWaBrajVJRUt8=",
+    "mf": "C8H10",
+    "idCodeHash": "a03d0ea385fed67f239b8537311f5380",
+    "idCode": "daD@@DjWzXHB@@",
+    "file": "./10-19/Bsp11/index.json",
+    "title": "Bsp11"
+  },
+  {
+    "id": "SQUuERfWyCpDyKM9SFGg7pWcLj8=",
+    "mf": "C10H14",
+    "idCodeHash": "40c7e3e2dcbee52cbd152770e11e9d4f",
+    "idCode": "deT@@LdbRQU\\DDT@@",
+    "file": "./10-19/Bsp12/index.json",
+    "title": "Bsp12"
+  },
+  {
+    "id": "J7pJgGVsxIC8jSw8Zrg6euY41FM=",
+    "mf": "C9H12O",
+    "idCodeHash": "d3b6561fd917797a6ed59629a70351bb",
+    "idCode": "deTH@@Rfuunh@J@@",
+    "file": "./10-19/Bsp13/index.json",
+    "title": "Bsp13"
+  },
+  {
+    "id": "mF3+DOQhX7GGklBVoayK+/4yINw=",
+    "mf": "C8H8O3",
+    "idCodeHash": "f07211ff9f8e59b25f5dac3cafd2a318",
+    "idCode": "dmtL@@QTf^Uqej@B@@",
+    "file": "./10-19/Bsp14/index.json",
+    "title": "Bsp14"
+  },
+  {
+    "id": "HBQ1gPl3FvbAhkKfNK/ivEpTsco=",
+    "mf": "C9H10O",
+    "idCodeHash": "89b028219b311462237df915fd039695",
+    "idCode": "deTH@@RYe\\YZB@@@",
+    "file": "./10-19/Bsp15/index.json",
+    "title": "Bsp15"
+  },
+  {
+    "id": "rvFeJ9eg+AYHWHyloE2F3cmZdq8=",
+    "mf": "C9H10O",
+    "idCodeHash": "89b028219b311462237df915fd039695",
+    "idCode": "deTH@@RYe\\YZB@@@",
+    "file": "./10-19/Bsp16/index.json",
+    "title": "Bsp16"
+  },
+  {
+    "id": "PcbXW4dVYr+Qc8C5EHkfa4LzkUo=",
+    "mf": "C7H14O2",
+    "idCodeHash": "9bb82028eb50b6df0f58f8575798fd63",
+    "idCode": "didD@@qJZ]qjjj`@",
+    "file": "./10-19/Bsp17/index.json",
+    "title": "Bsp17"
+  },
+  {
+    "id": "QYmB8CU8BFKOcsUFISkcNVMm9Ys=",
+    "mf": "C9H13N",
+    "idCodeHash": "ccc45756c3ff3ec8f12fae8fd84003d0",
+    "idCode": "deV@@@rRJEK\\MP@P@@",
+    "file": "./10-19/Bsp18/index.json",
+    "title": "Bsp18"
+  },
+  {
+    "id": "A9nrko+CpbAvFFZGAuuJuhecE3U=",
+    "mf": "C4H9NO",
+    "idCodeHash": "00a94e57daba19083b872535154290ff",
+    "idCode": "gGY@DDfUj`@",
+    "file": "./10-19/Bsp19/index.json",
+    "title": "Bsp19"
+  }
+]
