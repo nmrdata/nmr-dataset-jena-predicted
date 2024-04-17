@@ -1,0 +1,75 @@
+[
+  {
+    "id": "y04NIlBAg7BJ7mZVOUIzZnTIKts=",
+    "mf": "C4H8O2",
+    "idCodeHash": "8dce89763ab899350b4a01be188c1555",
+    "idCode": "gGP`@df]j`@",
+    "file": "./01-09/Bsp1/index.json",
+    "title": "Bsp1",
+    "selected": true
+  },
+  {
+    "id": "GB/QvJA7yF7b/Swd7ZUZZIhb91s=",
+    "mf": "C4H8O2",
+    "idCodeHash": "134d499936f8fedb1170e3f741f72b9e",
+    "idCode": "gGP`@dfUj`@",
+    "file": "./01-09/Bsp2/index.json",
+    "title": "Bsp2"
+  },
+  {
+    "id": "d+cHU4ypOvMRju6ZmdGLP3MuF4I=",
+    "mf": "C6H15N",
+    "idCodeHash": "682c15c5310e31b584df5642842cfb09",
+    "idCode": "gNx@@eRmUP@",
+    "file": "./01-09/Bsp3/index.json",
+    "title": "Bsp3"
+  },
+  {
+    "id": "2zibT5BVv54fLIDZrPO/r4ecThQ=",
+    "mf": "C6H12",
+    "idCodeHash": "6b447e091a0d1227a3f82e835527f92d",
+    "idCode": "gGP@Djuj`@",
+    "file": "./01-09/Bsp4/index.json",
+    "title": "Bsp4"
+  },
+  {
+    "id": "CI1OL2IDVrPkP2zByzsVABzbl28=",
+    "mf": "C6H10Cl2",
+    "idCodeHash": "ff10531c13380cb15ba850397460fd4e",
+    "idCode": "dax@P@bBbDfYyjhHb@",
+    "file": "./01-09/Bsp5/index.json",
+    "title": "Bsp5"
+  },
+  {
+    "id": "eFYMYkrkSnZg9lnBu2Lpp4oBpj8=",
+    "mf": "C5H10Br2",
+    "idCodeHash": "01ccdce355d7bfc8472c0bc90b6b94e8",
+    "idCode": "gNpDAbKDRZzjh@",
+    "file": "./01-09/Bsp6/index.json",
+    "title": "Bsp6"
+  },
+  {
+    "id": "MeWv1zkh8X9MPpye8fFzgOkgLZc=",
+    "mf": "C8H14O4",
+    "idCodeHash": "47417d3612c0e81824e4bcf7c489d01f",
+    "idCode": "dctB@@PYRYU{Vjij@@",
+    "file": "./01-09/Bsp7/index.json",
+    "title": "Bsp7"
+  },
+  {
+    "id": "6fKQ3wa64qTLLlJ769AXp75f7yc=",
+    "mf": "C6H10O4",
+    "idCodeHash": "5e96ae97877612b9bed30031e7b2a955",
+    "idCode": "dedB@@SarJISPmUM@@",
+    "file": "./01-09/Bsp8/index.json",
+    "title": "Bsp8"
+  },
+  {
+    "id": "+uiT58l8S5C0PHnHQsITZz4URVY=",
+    "mf": "C7H12O4",
+    "idCodeHash": "3fc6cd056cc321058b51c06531a02e9b",
+    "idCode": "dmTB@@SarJIIPijij@@",
+    "file": "./01-09/Bsp9/index.json",
+    "title": "Bsp9"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sovVIzmfuDxZt0xivkigNp6V7KQ=",
+    "mf": "C8H8O2",
+    "idCodeHash": "c5d832a7b2163ffcb0ef980e02323906",
+    "idCode": "deTD@@EIYWVy`@h@@",
+    "file": "./40-47/Bsp40/index.json",
+    "title": "Bsp40",
+    "selected": true
+  },
+  {
+    "id": "HYJ09FwVXgst4uOgYKcR+6a5oO8=",
+    "mf": "C9H10O2",
+    "idCodeHash": "5b1138cee07fcf4de8ebf1714e2686ec",
+    "idCode": "dmtD@@QIee^UZ``@@@",
+    "file": "./40-47/Bsp41/index.json",
+    "title": "Bsp41"
+  },
+  {
+    "id": "6/i1/usA7TP/+cgK4IGKvXsjpo8=",
+    "mf": "C9H12",
+    "idCodeHash": "b4645681edaab4be23faa49623871000",
+    "idCode": "did@@LdbRQk``b@@",
+    "file": "./40-47/Bsp42/index.json",
+    "title": "Bsp42"
+  },
+  {
+    "id": "7Xe3m8R6AXtTXxlxBJnq4T6FgJ8=",
+    "mf": "C5H10O2",
+    "idCodeHash": "eb47bc58f18348f072fa6872ca0e0f78",
+    "idCode": "gNp`@dfUZj@@",
+    "file": "./40-47/Bsp43/index.json",
+    "title": "Bsp43"
+  },
+  {
+    "id": "tj1UnJN+g5WXBXcX1rAJiz+y5JQ=",
+    "mf": "C5H13N",
+    "idCodeHash": "bb5426a9629eabcf4d785238342e59cf",
+    "idCode": "gGX@@eRuT@@",
+    "file": "./40-47/Bsp44/index.json",
+    "title": "Bsp44"
+  },
+  {
+    "id": "Kp/7dJBb4l1hLfjkjdhsZ0pq+80=",
+    "mf": "C9H12O",
+    "idCodeHash": "508fab4c2711eea51a91dba76da9d48c",
+    "idCode": "deTH@@RfUahHB@@",
+    "file": "./40-47/Bsp45/index.json",
+    "title": "Bsp45"
+  },
+  {
+    "id": "bCdfAIWqa2chUMyK6qPaKJLwZRk=",
+    "mf": "C6H14O",
+    "idCodeHash": "631ee8e1116632b2a14123e38a30c0c6",
+    "idCode": "gNq@@eM]UP@",
+    "file": "./40-47/Bsp46/index.json",
+    "title": "Bsp46"
+  },
+  {
+    "id": "6SYh8vtTuDBf03CeguHPhHS5gXU=",
+    "mf": "C5H12O",
+    "idCodeHash": "f3c4b40ca0747e08f1feb15e23024599",
+    "idCode": "gGQ@@eMUT@@",
+    "file": "./40-47/Bsp47/index.json",
+    "title": "Bsp47"
+  }
+]
