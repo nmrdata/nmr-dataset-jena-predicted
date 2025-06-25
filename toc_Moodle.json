@@ -1,0 +1,17 @@
+[
+  {
+    "id": "D0kHXaXCM/o95uyCA3YgToTCEQI=",
+    "mf": "C9H12O",
+    "idCodeHash": "d3b6561fd917797a6ed59629a70351bb",
+    "file": "./Moodle/M1/index.json",
+    "title": "M1",
+    "selected": true
+  },
+  {
+    "id": "uMFa55/WsqRS0XAzbbQ+Ih7aVN8=",
+    "mf": "C11H14O2",
+    "idCodeHash": "041c76406ba3a534ddbfe3ed861fe1e9",
+    "file": "./Moodle/M2/index.json",
+    "title": "M2"
+  }
+]
