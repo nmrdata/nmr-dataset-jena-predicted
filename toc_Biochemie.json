@@ -1,0 +1,247 @@
+[
+  {
+    "groupName": "40-49",
+    "folderName": "40-49",
+    "children": [
+      {
+        "id": "UpgIIvrpvc/H5hLnXeNI1foX6RA=",
+        "mf": "C8H8O2",
+        "idCodeHash": "c5d832a7b2163ffcb0ef980e02323906",
+        "file": "./Biochemie/40-49/Bsp40/index.json",
+        "title": "40-49/Bsp40",
+        "selected": true
+      },
+      {
+        "id": "GPUdptJHnvoWlQzlp7FMznCBBf8=",
+        "mf": "C9H10O2",
+        "idCodeHash": "5b1138cee07fcf4de8ebf1714e2686ec",
+        "file": "./Biochemie/40-49/Bsp41/index.json",
+        "title": "40-49/Bsp41"
+      },
+      {
+        "id": "CPv623rWmBISUu83HhgXHk1Z008=",
+        "mf": "C9H12",
+        "idCodeHash": "b4645681edaab4be23faa49623871000",
+        "file": "./Biochemie/40-49/Bsp42/index.json",
+        "title": "40-49/Bsp42"
+      },
+      {
+        "id": "gP+rE9k9eO8R5lu9D+K8Q98aRqU=",
+        "mf": "C5H10O2",
+        "idCodeHash": "eb47bc58f18348f072fa6872ca0e0f78",
+        "file": "./Biochemie/40-49/Bsp43/index.json",
+        "title": "40-49/Bsp43"
+      },
+      {
+        "id": "DtNYSNPbsBrKqtZwodaPUuIZAi8=",
+        "mf": "C5H13N",
+        "idCodeHash": "bb5426a9629eabcf4d785238342e59cf",
+        "file": "./Biochemie/40-49/Bsp44/index.json",
+        "title": "40-49/Bsp44"
+      },
+      {
+        "id": "qAD/FFz0Iy0N5SDaHJempqAhuRk=",
+        "mf": "C9H12O",
+        "idCodeHash": "508fab4c2711eea51a91dba76da9d48c",
+        "file": "./Biochemie/40-49/Bsp45/index.json",
+        "title": "40-49/Bsp45"
+      },
+      {
+        "id": "eTVRIskzX8BzkB17MTUQy8jgjrk=",
+        "mf": "C6H14O",
+        "idCodeHash": "631ee8e1116632b2a14123e38a30c0c6",
+        "file": "./Biochemie/40-49/Bsp46/index.json",
+        "title": "40-49/Bsp46"
+      },
+      {
+        "id": "/Qn9QRj9N61aknRP6HTmgfuU5bs=",
+        "mf": "C5H12O",
+        "idCodeHash": "f3c4b40ca0747e08f1feb15e23024599",
+        "file": "./Biochemie/40-49/Bsp47/index.json",
+        "title": "40-49/Bsp47"
+      },
+      {
+        "id": "tnoemlkHS7nt+3POQfJhT4VJx0o=",
+        "mf": "C10H12O",
+        "idCodeHash": "b7442531a558716254877b3d125317c9",
+        "file": "./Biochemie/40-49/Bsp48/index.json",
+        "title": "40-49/Bsp48"
+      },
+      {
+        "id": "eaFQ05m2iSIlTJXVTl5EREn3qYs=",
+        "mf": "C10H12O2",
+        "idCodeHash": "8fc751ea3f3efba35afa8a99e3d965d9",
+        "file": "./Biochemie/40-49/Bsp49/index.json",
+        "title": "40-49/Bsp49"
+      }
+    ]
+  },
+  {
+    "id": "gSDONtDPE6wPgnZoyns33lx6UPU=",
+    "mf": "C4H8O2",
+    "idCodeHash": "8dce89763ab899350b4a01be188c1555",
+    "file": "./Biochemie/Bsp1/index.json",
+    "title": "Bsp1"
+  },
+  {
+    "id": "phvHI/gJAVQ9R3wDPAYZAmlpz1Q=",
+    "mf": "C8H10",
+    "idCodeHash": "a03d0ea385fed67f239b8537311f5380",
+    "file": "./Biochemie/Bsp11/index.json",
+    "title": "Bsp11"
+  },
+  {
+    "id": "qvkFAJf7OjE0jXSyWwKkFR7bKi8=",
+    "mf": "C10H14",
+    "idCodeHash": "40c7e3e2dcbee52cbd152770e11e9d4f",
+    "file": "./Biochemie/Bsp12/index.json",
+    "title": "Bsp12"
+  },
+  {
+    "id": "vUISy7IYU5lKT0nLhG0cZHIX8FQ=",
+    "mf": "C9H12O",
+    "idCodeHash": "d3b6561fd917797a6ed59629a70351bb",
+    "file": "./Biochemie/Bsp13/index.json",
+    "title": "Bsp13"
+  },
+  {
+    "id": "E51Nyd8f2fO7+BytkmaqDdMluyo=",
+    "mf": "C9H10O",
+    "idCodeHash": "89b028219b311462237df915fd039695",
+    "file": "./Biochemie/Bsp16/index.json",
+    "title": "Bsp16"
+  },
+  {
+    "id": "DXxhydNCptTjUThYoQvaft9Gd04=",
+    "mf": "C4H9NO",
+    "idCodeHash": "00a94e57daba19083b872535154290ff",
+    "file": "./Biochemie/Bsp19/index.json",
+    "title": "Bsp19"
+  },
+  {
+    "id": "gWLe8+SVcktkFYDasBysYkSjfCE=",
+    "mf": "C4H8O2",
+    "idCodeHash": "134d499936f8fedb1170e3f741f72b9e",
+    "file": "./Biochemie/Bsp2/index.json",
+    "title": "Bsp2"
+  },
+  {
+    "id": "r8bHS8UcC+QHJYLSHkkznl+mGx0=",
+    "mf": "C9H12O3",
+    "idCodeHash": "38b735fa3a6facd8885b86146648ecc5",
+    "file": "./Biochemie/Bsp20/index.json",
+    "title": "Bsp20"
+  },
+  {
+    "id": "uomGcinIdtHfAZprAPZRVo4jlE0=",
+    "mf": "C3H5Br3",
+    "idCodeHash": "1b219926402066462f8411d3b1cee046",
+    "file": "./Biochemie/Bsp21/index.json",
+    "title": "Bsp21"
+  },
+  {
+    "id": "qkr2WTNXtzY3K8zh2F65ShMph30=",
+    "mf": "C3H5Br3",
+    "idCodeHash": "1b219926402066462f8411d3b1cee046",
+    "file": "./Biochemie/Bsp22/index.json",
+    "title": "Bsp22"
+  },
+  {
+    "id": "o5rQ28XGRpYYTROBrilGRTpHWx8=",
+    "mf": "C5H11Br",
+    "idCodeHash": "dfa42c7132b3bdc907f0d20447ef76fb",
+    "file": "./Biochemie/Bsp23/index.json",
+    "title": "Bsp23"
+  },
+  {
+    "id": "ri3n1m0uWXENPMN1QOWtuRGN3Qs=",
+    "mf": "C5H10O2",
+    "idCodeHash": "111e3e8abad98396671df70ad2648607",
+    "file": "./Biochemie/Bsp24/index.json",
+    "title": "Bsp24"
+  },
+  {
+    "id": "G0h2j+CajWx/xcUDppZZ2Rg6Yj8=",
+    "mf": "C4H10O",
+    "idCodeHash": "e7e10e1f80c7f0f586e9c255166d83f0",
+    "file": "./Biochemie/Bsp28/index.json",
+    "title": "Bsp28"
+  },
+  {
+    "id": "f/dW+WgT7wD/vmaBw6wVpfsj03E=",
+    "mf": "C6H15N",
+    "idCodeHash": "682c15c5310e31b584df5642842cfb09",
+    "file": "./Biochemie/Bsp3/index.json",
+    "title": "Bsp3"
+  },
+  {
+    "id": "FgplEL+Jt6mybjzL0EJrs9p4xMk=",
+    "mf": "C5H10O",
+    "idCodeHash": "09fb31fc3d0ef549a9ec826da3ac4a7e",
+    "file": "./Biochemie/Bsp38/index.json",
+    "title": "Bsp38"
+  },
+  {
+    "id": "hIN4StQRiZ+Do2qY4B8H85kLszg=",
+    "mf": "C6H12",
+    "idCodeHash": "6b447e091a0d1227a3f82e835527f92d",
+    "file": "./Biochemie/Bsp4/index.json",
+    "title": "Bsp4"
+  },
+  {
+    "id": "UpgIIvrpvc/H5hLnXeNI1foX6RA=",
+    "mf": "C8H8O2",
+    "idCodeHash": "c5d832a7b2163ffcb0ef980e02323906",
+    "file": "./Biochemie/Bsp40/index.json",
+    "title": "Bsp40"
+  },
+  {
+    "id": "GPUdptJHnvoWlQzlp7FMznCBBf8=",
+    "mf": "C9H10O2",
+    "idCodeHash": "5b1138cee07fcf4de8ebf1714e2686ec",
+    "file": "./Biochemie/Bsp41/index.json",
+    "title": "Bsp41"
+  },
+  {
+    "id": "CPv623rWmBISUu83HhgXHk1Z008=",
+    "mf": "C9H12",
+    "idCodeHash": "b4645681edaab4be23faa49623871000",
+    "file": "./Biochemie/Bsp42/index.json",
+    "title": "Bsp42"
+  },
+  {
+    "id": "gP+rE9k9eO8R5lu9D+K8Q98aRqU=",
+    "mf": "C5H10O2",
+    "idCodeHash": "eb47bc58f18348f072fa6872ca0e0f78",
+    "file": "./Biochemie/Bsp43/index.json",
+    "title": "Bsp43"
+  },
+  {
+    "id": "qAD/FFz0Iy0N5SDaHJempqAhuRk=",
+    "mf": "C9H12O",
+    "idCodeHash": "508fab4c2711eea51a91dba76da9d48c",
+    "file": "./Biochemie/Bsp45/index.json",
+    "title": "Bsp45"
+  },
+  {
+    "id": "eTVRIskzX8BzkB17MTUQy8jgjrk=",
+    "mf": "C6H14O",
+    "idCodeHash": "631ee8e1116632b2a14123e38a30c0c6",
+    "file": "./Biochemie/Bsp46/index.json",
+    "title": "Bsp46"
+  },
+  {
+    "id": "/Qn9QRj9N61aknRP6HTmgfuU5bs=",
+    "mf": "C5H12O",
+    "idCodeHash": "f3c4b40ca0747e08f1feb15e23024599",
+    "file": "./Biochemie/Bsp47/index.json",
+    "title": "Bsp47"
+  },
+  {
+    "id": "3so+rg7OuFOwd+aL1mwJ4/XnxAo=",
+    "mf": "C8H14O4",
+    "idCodeHash": "47417d3612c0e81824e4bcf7c489d01f",
+    "file": "./Biochemie/Bsp7/index.json",
+    "title": "Bsp7"
+  }
+]
