@@ -1,0 +1,12 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./1h_bsp17_300.JDX"
+      },
+      "display": {
+        "name": ""
+      }
+    }
+  ]
+}
