@@ -1,0 +1,45 @@
+[
+  {
+    "id": "FvWyHVfScMh3DEgOPn2KLqpi4zY=",
+    "mf": "C3H7Cl",
+    "idCodeHash": "4751386851a5d2b60e228bfcb4f25757",
+    "file": "./OC3LA/Übung 1/index.json",
+    "title": "Übung 1",
+    "selected": true
+  },
+  {
+    "id": "pzNnISyoQTMAmkz6dJ7U6OcZg90=",
+    "mf": "C3H7Cl",
+    "idCodeHash": "3677ad0b160161833bd81aeee2deb2db",
+    "file": "./OC3LA/Übung 2/index.json",
+    "title": "Übung 2"
+  },
+  {
+    "id": "svF9dr0lKrVs8yaEpnYliKvXEvY=",
+    "mf": "C4H8O2",
+    "idCodeHash": "8dce89763ab899350b4a01be188c1555",
+    "file": "./OC3LA/Übung 3/index.json",
+    "title": "Übung 3"
+  },
+  {
+    "id": "HMm8QqWtItXyljuBPR8zTOFimQ8=",
+    "mf": "C4H8O",
+    "idCodeHash": "c24527097aa6fc9f937412dd192802a7",
+    "file": "./OC3LA/Übung 4/index.json",
+    "title": "Übung 4"
+  },
+  {
+    "id": "/gWRH1L1clwoApMplVOqpKDpjbE=",
+    "mf": "C8H10",
+    "idCodeHash": "a03d0ea385fed67f239b8537311f5380",
+    "file": "./OC3LA/Übung 5/index.json",
+    "title": "Übung 5"
+  },
+  {
+    "id": "+Kma/inK0uQx5dJuvQgcsLJPMk8=",
+    "mf": "C9H10O",
+    "idCodeHash": "89b028219b311462237df915fd039695",
+    "file": "./OC3LA/Übung 6/index.json",
+    "title": "Übung 6"
+  }
+]
